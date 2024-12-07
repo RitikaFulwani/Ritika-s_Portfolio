@@ -458,7 +458,7 @@ id: 1,
 title: "Resume Builder ",
 date: "Jan 2022 - Aug 2022",
 description:
-"Developed a real-time weather app that provides current conditions, hourly, and weekly forecasts using live weather APIs. Implemented location-based services for personalized weather updates and interactive maps for visualizing weather patterns. Added features like severe weather alerts, sunrise/sunset times, and air quality monitoring for enhanced usability. Designed a responsive and user-friendly interface with React.js and TailwindCSS, ensuring cross-device compatibility. Built robust backend APIs with Express.js and Node.js, leveraging MongoDB for efficient data storage and retrieval.",
+"Created a dynamic resume builder application enabling users to design, customize, and download professional resumes with ease. Integrated features such as pre-designed templates, drag-and-drop functionality, and real-time preview for a seamless user experience. Added options for personalized sections, font styles, and color schemes to enhance customization. Built a responsive and intuitive UI using React.js and TailwindCSS, ensuring compatibility across devices. Developed a secure backend with Express.js and Node.js, utilizing MongoDB for user data storage and template management.",
 image:
   "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
   tags: [
