@@ -6,11 +6,10 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/RitikaFulwani",
   resume:
     "https://drive.google.com/file/d/1DwmYe39T2Ac4BWy_vfM3H_MYXT8FsPnp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ritika-fulwani/",
-  twitter: "https://twitter.com/RishavChanda",
   github:  "https://github.com/RitikaFulwani"
   
 };
@@ -460,7 +459,7 @@ id: 1,
 title: "Resume Builder ",
 date: "Jan 2022 - Aug 2022",
 description:
- "Built a real-time code editor with live editing, execution, and active user cursors using Socket.io. Integrated messaging, voice/video calls, and a collaborative whiteboard for seamless teamwork. Developed features like private chat rooms, file management, and version control for code tracking. Added meeting scheduling, task boards, polls, and code forking to enhance collaboration and project management. Designed a responsive UI with React.js and TailwindCSS; developed backend APIs using Express.js and Node.js with MongoDB.",
+"Developed a real-time weather app that provides current conditions, hourly, and weekly forecasts using live weather APIs. Implemented location-based services for personalized weather updates and interactive maps for visualizing weather patterns. Added features like severe weather alerts, sunrise/sunset times, and air quality monitoring for enhanced usability. Designed a responsive and user-friendly interface with React.js and TailwindCSS, ensuring cross-device compatibility. Built robust backend APIs with Express.js and Node.js, leveraging MongoDB for efficient data storage and retrieval.",
 image:
   "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
   tags: [
