@@ -278,7 +278,7 @@ export const education = [
     school: "Sage University Indore",
     date: "Nov 2021 - June 2025",
     grade: "9.44 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Sage University Indore. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Sage University Indore. I have completed 7 semesters and have a CGPA of 9.44. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks,I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
